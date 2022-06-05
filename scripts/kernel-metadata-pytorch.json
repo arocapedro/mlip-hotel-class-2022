@@ -1,0 +1,22 @@
+{
+  "id": "robertvanlente/hotel-id-starter-classification-training",
+  "id_no": 27292843,
+  "title": "Hotel-ID starter - classification - training ",
+  "code_file": "train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "datasets/michaln/hotelid-2022-train-images-256x256",
+    "datasets/robertvanlente/hotelidbathroombedroomsplit"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/hotel-id-to-combat-human-trafficking-2022-fgvc9"
+  ]
+}

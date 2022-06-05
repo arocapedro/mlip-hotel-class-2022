@@ -1,0 +1,19 @@
+{
+  "id": "code/parocala/empanadrain",
+  "id_no": 26640162,
+  "title": "Empanada Train",
+  "code_file": "train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/hotel-id-to-combat-human-trafficking-2022-fgvc9"
+  ]
+}
